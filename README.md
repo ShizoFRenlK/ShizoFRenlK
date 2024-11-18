@@ -15,3 +15,6 @@
 <div id="haythere" align="center">
   <h1> Профиль на GITHUB </h1>
 </div>
+
+### :cowboy_hat_face: Обо мне: 
+- :scream: Ваг не ломается, ваг обслуживается
