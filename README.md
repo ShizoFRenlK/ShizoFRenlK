@@ -7,4 +7,9 @@
     <img src = "https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
+https://github.com/ShizoFRenlK/ShizoFRenlK
+<div id ="viewprof" align="center">
+  <img src = "https://komarev.com/ghpvc/?username=hizoFRenlK&label=PROFILE+VIEWS" alt ""/>
+</div>
+
 
