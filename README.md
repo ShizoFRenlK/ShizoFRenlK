@@ -41,7 +41,7 @@
 ### :keyboard: Наиболее используемые языки:
 
 <div>
-    <img src="https://github.com/.vercel.app/?username=ShizoFRenlK" alt=""/>
+    <img src="https://anuraghazra/github-readme-stats.vercel.app/?username=ShizoFRenlK" alt=""/>
 </div>
 
 
