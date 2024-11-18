@@ -32,3 +32,7 @@
 </div>
 
 ### :trophy: Достижения:
+
+<div>
+    <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=ShizoFRenlK" alt=""/>
+</div>
