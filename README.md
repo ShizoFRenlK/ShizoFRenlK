@@ -9,7 +9,7 @@
 </div>
 https://github.com/ShizoFRenlK/ShizoFRenlK
 <div id ="viewprof" align="center">
-  <img src = "https://komarev.com/ghpvc/?username=hizoFRenlK&label=PROFILE+VIEWS" alt ""/>
+  <img src = "https://komarev.com/ghpvc/?username=ShizoFRenlK&style=flat-square" alt ""/>
 </div>
 
 
