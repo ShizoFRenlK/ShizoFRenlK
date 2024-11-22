@@ -41,8 +41,12 @@
 ### :keyboard: Наиболее используемые языки:
 
 <div>
-    <img src="https://github.com/anuraghazra/github-readme-stats.vercel.app/?username=ShizoFRenlK" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShizoFRenlK" alt=""/>
 </div>
 
+### :bar_chart: Статистика активности :
 
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShizoFRenlK&theme=dracula" alt=""/>
+</div>
 
